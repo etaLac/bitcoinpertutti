@@ -93,7 +93,7 @@ Per gli exchange è la stessa cosa, a parte la presenza del fondo di garanzia. Q
 
 Per disporre dei propri fondi in modo diretto e non accollarsi i rischi legati all’intermediazione dell’exchange, è buona norma, dopo aver acquistato le crittovalute trasferirle nell’apposito wallet, di cui voi e solo voi, disponete delle chiavi private. Ricorda, tu sei la tua banca.
   
-=== Altri metodi per acquitare Bitcoin
+=== Altri metodi per acquistare Bitcoin
 Esistono molti altri modi per acquistare crittovalute. Il più banale è acquistarle da parenti, amici o colleghi che già sono in possesso di crittovalute. In questo caso, è sufficiente scaricare un wallet, creare la propria chiave privata, mostrare all’amico il QR Code, e farsi inviare la quantità di Bitcoin concordata. 
 
 Sparsi per la penisola stanno spuntando come funghi dei Bancomat, o “compro euro”; sono delle macchine automatiche o dei punti vendita presidiati da addetti, che, in cambio di un versamento in euro vendono Bitcoin. In questi casi è fondamentale documentarsi sui costi di transazione che vengono applicati, che possono in alcuni casi arrivare addirittura al 12%. Anche in questi casi, come per gli exchange vi verranno richiesti tutta una serie di documenti, ed i vostri dati saranno salvati dalla società che vi vende i Bitcoin.
